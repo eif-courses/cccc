@@ -1,4 +1,6 @@
 <template>
+  <h1>Upload Excel File</h1>
+  <FileUpload />
   <div class="flex flex-col gap-4">
     <p class="font-medium">
       Welcome to Atidone.

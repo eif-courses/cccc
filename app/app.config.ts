@@ -2,7 +2,7 @@ export default defineAppConfig({
   ui: {
     primary: 'emerald',
     container: {
-      constrained: 'max-w-2xl'
+      constrained: 'max-w-6xl'
     },
     card: {
       header: {
